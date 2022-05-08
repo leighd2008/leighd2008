@@ -4,9 +4,9 @@
     <a href="https://www.linkedin.com/in/diane-leigh-5251a275/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="Diane#3610">
+    <!-- <a href="Diane#3610">
       <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=Discord&logoColor=#5865F2" alt="Youtube Badge"/>
-    </a>
+    </a> -->
     <a href="https://twitter.com/leighd2008">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
@@ -22,13 +22,14 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> from Ohio.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I freelance as a web developer.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Diving deep into Machine learning and Data Science.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I love brain teezers and logic puzzles, I also love to read.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Gmail&logoColor=#EA4335)](your-linkedin-url)
+<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-leighd2008-blue?style=flat&logo=Gmail&logoColor=#EA4335)](your-linkedin-url) -->
