@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=leighd2008&style=flat-square&color=blue" alt=""/>
   <h1>  hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
   </h1>
 </div>
 <div align="center">
@@ -64,6 +64,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/QssGEmpkyEOh
 
 ---
 
-### :writing_hand: Blog Posts
+<!-- ### :writing_hand: Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
